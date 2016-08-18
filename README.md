@@ -1,6 +1,4 @@
-### Priority queue task
-
-:warning: DO NOT FORK AND SUBMIT PRS TO THIS REPO :warning:
+### Priority queue task done bu UTO
 
 ### Prerequisites
 * Install [nodejs](https://nodejs.org/en/) (>= v6.2.0)
